@@ -212,8 +212,8 @@ fr:
 
   # General stuff
   time_ago_in_words: "il y a %{time}"
-  ago: " déjà"
-  ago_by: " déjà par"
+  ago: ""
+  ago_by: " par"
   by: par
   started_by: "Commencé par "
   are_you_sure: Êtes-vous certain ?
