@@ -149,11 +149,11 @@ fr:
           'true': Voir ce sujet
           'false': Cacher ce sujet
         lock:
-          'true': Vérouiller ce sujet
-          'false': Dévérouiller ce sujet
+          'true': Dévérouiller ce sujet
+          'false': Vérouiller ce sujet
         pin:
-          'true': Épingler ce sujet
-          'false': Désépingler ce sujet
+          'true': Désépingler ce sujet
+          'false': Épingler ce sujet
     post:
       buttons:
         reply: Répondre
