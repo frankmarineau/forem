@@ -126,7 +126,7 @@ fr:
       links:
         new: Nouveau sujet
         back_to_topics: Retour aux sujets
-        edit: Modifier un sujet
+        edit: Modifier ce sujet
       not_found: Le sujet recherché n'a pu être trouvé.
       hidden:
         'true': Ce sujet est maintenant caché.
@@ -146,7 +146,7 @@ fr:
         reply_to_topic: Répondre au sujet
         pending_review: Ce sujet est actuellement en révision. Seulement l'auteur et les modérateurs peuvent actuellement le consulter.
         hide:
-          'true': Voir ce sujet
+          'true': Afficher ce sujet
           'false': Cacher ce sujet
         lock:
           'true': Dévérouiller ce sujet
@@ -158,10 +158,10 @@ fr:
       buttons:
         reply: Répondre
         edit: Modifier
-      created: Votre réponse a été posté.
+      created: Votre réponse a été enregistrée.
       new: Écrire un réponse
       edit: Modifier
-      not_created: Votre réponse n'a pas été postée.
+      not_created: Votre réponse n'a pas été enregistrée.
       not_created_topic_locked: Vous ne pouvez pas répondre à un sujet verrouillé.
       edited: Votre message a été modifié.
       not_edited: Votre message n'a pas pu être modifié.
