@@ -96,7 +96,7 @@ fr:
       index:
         title: Forums
         forum: Forum
-        views: Vus
+        views: Vues
         last_post: 'Dernier Message :'
         none: Aucun
     topic:
