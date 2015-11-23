@@ -104,7 +104,7 @@ fr:
         topic: Sujet
         latest: Dernier
         posts: Messages
-        views: Vus
+        views: Vues
       moderation:
         success: Le sujet sélectionné a été modéré.
         no_option_selected: "Aucune option de modération n'a été sélectionné."
